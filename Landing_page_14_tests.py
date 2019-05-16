@@ -161,15 +161,46 @@ class Landing_Page(unittest.TestCase):
         print("Top navigation test: ")
         try:
             self.driver.get(self.url)
-            self.driver.find_element(By.XPATH, self.fields['TopBar']['features']).click()
+            ### Features page ###
+            self.driver.find_element(By.XPATH, self.fields['TopBar']['Features']).click()
+            try:
+                self.wait.until(EC.visibility_of_element_located((By.XPATH, self.fields["TopBar"]["FeaturesH1"])))
+            except:
+                print("FAILED: Features page did not find")
             self.driver.back()
-            self.driver.find_element(By.XPATH, self.fields['TopBar']['support']).click()
+
+            ### Support page ###
+            self.driver.find_element(By.XPATH, self.fields['TopBar']['Support']).click()
+            try:
+                self.wait.until(EC.visibility_of_element_located((By.XPATH, self.fields["TopBar"]["SupportH1"])))
+            except:
+                print("FAILED: Support page did not find")
             self.driver.back()
+
+            ### FAQs page ###
             self.driver.find_element(By.XPATH, self.fields['TopBar']['FAQ']).click()
+            try:
+                self.wait.until(EC.visibility_of_element_located((By.XPATH, self.fields["TopBar"]["FAQsH1"])))
+            except:
+                print("FAILED: FAQs page did not find")
             self.driver.back()
-            self.driver.find_element(By.XPATH, self.fields['TopBar']['about_us']).click()
+
+            ### AboutUs page ###
+            self.driver.find_element(By.XPATH, self.fields['TopBar']['About_us']).click()
+            try:
+                self.wait.until(EC.visibility_of_element_located((By.XPATH, self.fields["TopBar"]["AboutUsH1"])))
+            except:
+                print("FAILED: AboutUs page did not find")
             self.driver.back()
+
+            ### ContactUs page ###
             self.driver.find_element(By.XPATH, self.fields['TopBar']['contact_us']).click()
+            try:
+                self.wait.until(EC.visibility_of_element_located((By.XPATH, self.fields["TopBar"]["ContactUsH1"])))
+            except:
+                print("FAILED: AboutUs page did not find")
+            self.driver.back()
+
             print("PASSED: Top navigation")
         except:
             print("FAILED: Top navigation")
@@ -326,7 +357,7 @@ class Landing_Page(unittest.TestCase):
     def test_Support(self):
         print("Support page test: ")
         try:
-            self.driver.find_element(By.XPATH, self.fields['TopBar']['support']).click()
+            self.driver.find_element(By.XPATH, self.fields['TopBar']['Support']).click()
             self.driver.find_element(By.XPATH, self.fields["Support"]["Setup"]).click()
             time.sleep(1)
             self.driver.find_element(By.XPATH, self.fields["Support"]["SetCon"]).click()

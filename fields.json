@@ -1,0 +1,128 @@
+{
+  "TopBar": {
+    "Features": "//div[@class='navbar-collapse collapse']//a[@title='Features']",
+    "Support" : "//div[@class='navbar-collapse collapse']//a[@title='Support']",
+    "FAQ" : "//div[@class='navbar-collapse collapse']//a[@title='FAQs']",
+    "About_us" : "//div[@class='navbar-collapse collapse']//a[@title='About Us']",
+    "Contact_us" : "//div[@class='navbar-collapse collapse']//a[@title='Contact Us']",
+    "FeaturesH1" : "//h1[text()='Features']",
+    "SupportH1" : "//h1[text()='Support']",
+    "FAQsH1" : "//h1[text()='FAQs']",
+    "AboutUsH1" : "//h1[text()='About Us']",
+    "ContactUsH1" : "//h1[text()='Contact Us']"
+  },
+
+  "BottomBar": {
+    "b_features" : "//div[@class='footernav']//a[@title='Features']",
+    "b_support" : "//div[@class='footernav']//a[@title='Support']",
+    "b_FAQ" : "//div[@class='footernav']//a[@title='FAQs']",
+    "b_about_us" : "//div[@class='footernav']//a[@title='About Us']",
+    "b_contact_us" : "//div[@class='footernav']//a[@title='Contact Us']"
+  },
+
+  "Terms": {
+    "terms" : "//a[@id='termsofservice_link']",
+    "close" : "//button[@class='close']"
+  },
+
+  "Login": {
+    "LoginButton" : "//a[@title='Log In']",
+    "Submit" : "//button[@title='Submit']",
+    "Verif" : "//li[text()='This value is required']",
+    "Email" : "//input[@id='email']",
+    "Pass" : "//input[@id='password']",
+    "EmailError" : "//li[text()='This value should be a valid email']",
+    "ForgotPass" : "//a[@id='forgot_pin']",
+    "HaveAcc" : "//a[@id='have_account']",
+    "ForgotMail" : "//input[@id='forgot_pass_email']",
+    "SentMail" : "//div[@data-notify='container']//span[@data-notify='title']/strong[text()='Sent: ']",
+    "SubmitForgot" : "//a[@title='Submit']",
+    "NotExist" : "//span[text()='User not found. Please try again']",
+    "Remember" : "//input[@id='remember']",
+    "HeadText" : "//h1[text()='Account Log In']"
+  },
+
+  "Support": {
+    "support_num" : "//span[@class='phone-number']",
+    "Setup" : "//a[@title='Setup Conference Call']",
+    "SetCon" : "//a[@title='Set Conference Preferences']",
+    "Geton" : "//a[@title='Get on the Call']",
+    "After" : "//a[@title='After the Call']",
+    "Back" : "//a[@title='Back to top']",
+    "Web" : "//a[@title='Web-Based Commands']",
+    "Phone" : "//a[@title='Phone Keypad Commands']",
+    "Trouble" : "//a[@title='Trouble Ticket']",
+    "VoIP" : "//a[@title='VoIP Dialer']",
+    "Logolink" : "//a[@title='FreeConferenceCallHD.com']"
+  },
+
+  "SignUp": {
+    "first_name" : "//input[@name='first_name']",
+    "last_name" : "//input[@name='last_name']",
+    "email" : "//input[@name='email']",
+    "password" : "//input[@name='password']",
+    "parsel_type" : "//li[@class='parsley-type']"
+  },
+
+  "HDConference": {
+    "hd_link" : "//a[@title='HD Conferencing']",
+    "setup_conf" : "//a[@title='Setup Conference Call']",
+    "set_conf" : "//a[@title='Set Conference Preferences']",
+    "get_call" : "//a[@title='Get on the Call']",
+    "after_call" : "//a[@title='After the Call']",
+    "back_to_top" : "//a[@title='Back to top']",
+    "web_based" : "//a[@title='Web-Based Commands']",
+    "phone_keypad" : "//a[@title='Phone Keypad Commands']",
+    "trouble_ticket" : "//a[@title='Trouble Ticket']",
+    "voip" : "//a[@title='VoIP Dialer']"
+  },
+
+  "International": {
+    "international_button" : "//a[@title='International']"
+  },
+
+  "Controls": {
+    "web_control_button" : "//a[@title='Web Controls']"
+  },
+
+  "Store" : {
+    "appStore" : "//a[@title='Download FreeConferenceCallhd.com mobile app for iOS on the App Store']",
+    "googlePlay" : "//a[@title='Download the FreeConferenceCallHD.com mobile app for Android on Google Play']"
+  },
+
+  "AboutUs" : {
+    "fcc_link" : "//a[@title='freeconferencecall.com']",
+    "fc_link" : "//a[@title='freeconferencing.com']",
+    "hd_link" : "//a[@title='FreeConferencecallhd.com']",
+    "sm_link" : "//a[@title='StartMeeting.com']",
+    "smstudio_link" : "//a[@title='Free Recorded Presentations']",
+    "fcc_inter_link" : "//a[@title='Free International Conferencing']"
+  },
+
+  "ContactUs" : {
+    "name" :  "//input[@id='contact-name']",
+    "email" : "//input[@name='email']",
+    "phone" : "//input[@id='phone']",
+    "comments" : "//textarea[@id='comments']",
+    "phone_error" : "//span[@class='bt-flabels__error-desc']//li[text()='This value length is invalid. It should be between 10 and 17 characters long']",
+    "email_error" : "//span[@class='bt-flabels__error-desc']//li[text()='This value should be a valid email']",
+    "submit" : "//div[@title='Submit']",
+    "notify" : "//div[@class='col-xs-11 col-sm-4 alert alert-success']"
+  },
+
+  "FAQ" : {
+    "General" : "//a[@title='General Questions']",
+    "InterConf" : "//a[@title='International Conferencing Questions']",
+    "FeatureQ" : "//a[@title='Feature Questions']",
+    "Setup" : "//a[@title='Setup Questions']",
+    "Pricing" : "//a[@title='Pricing Questions']",
+    "Technical" : "//a[@title='Technical Questions']",
+    "Back" : "//a[@title='Back to top']"
+  },
+
+  "Urls" : {
+    "about_us" : "https://qa-www.freeconferencecallhd.com/about-us",
+    "contactus" : "https://qa-www.freeconferencecallhd.com/contact-us"
+  }
+}
+
