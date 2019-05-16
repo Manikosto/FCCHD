@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dc730a12-a0a6-41d9-85cd-bdac0cfe5cd6" name="Default Changelist" comment="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;LandingPage.py">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LandingPage.py" beforeDir="false" afterPath="$PROJECT_DIR$/LandingPage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/demo.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LandingPage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="135" column="31" selection-start-line="135" selection-start-column="31" selection-end-line="135" selection-end-column="55" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+                <marker date="1556009732012" expanded="true" signature="1915:2677" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/venv/functions.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="3" selection-end-column="70" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Contact_us_7_tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#1032#1507#0" />
+                <element signature="e#1560#3841#0" />
+                <element signature="e#3907#4982#0" />
+                <element signature="e#5027#5394#0" />
+                <element signature="e#5428#5711#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Landing_page_14_tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="147" column="41" lean-forward="true" selection-start-line="147" selection-start-column="41" selection-end-line="147" selection-end-column="41" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#3772#4670#0" />
+                <element signature="e#4712#4970#0" />
+                <element signature="e#5392#5595#0" />
+                <element signature="e#5632#6387#0" />
+                <element signature="e#6427#7273#0" />
+                <element signature="e#7309#7700#0" />
+                <element signature="e#7745#8547#0" />
+                <element signature="e#8584#9855#0" />
+                <element signature="e#9899#10284#0" />
+                <element signature="e#10326#10697#0" />
+                <element signature="e#10736#11538#0" />
+                <element signature="e#11576#12582#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login_7_tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="62" column="35" lean-forward="true" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#1217#2857#0" />
+                <element signature="e#2586#2897#0" />
+                <element signature="e#3739#4503#0" />
+                <element signature="e#4118#4942#0" />
+                <element signature="e#5135#5824#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fields.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="558">
+              <caret line="36" column="13" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>support</find>
+      <find>support_num</find>
+      <find>Contact_us</find>
+      <find>link</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/LandingPageScreenShotsResult/demo.py" />
+        <option value="$PROJECT_DIR$/H&amp;R.py" />
+        <option value="$PROJECT_DIR$/Знцшт.py" />
+        <option value="$USER_HOME$/Desktop/Pywin.py" />
+        <option value="$PROJECT_DIR$/Pywin.py" />
+        <option value="$PROJECT_DIR$/LandingPage.py" />
+        <option value="H:/player.py" />
+        <option value="$PROJECT_DIR$/demo.py" />
+        <option value="$PROJECT_DIR$/field.py" />
+        <option value="$PROJECT_DIR$/venv/poshelti.py" />
+        <option value="$PROJECT_DIR$/Contact-us.py" />
+        <option value="H:/player2.py" />
+        <option value="$PROJECT_DIR$/player.py" />
+        <option value="$PROJECT_DIR$/LandingPageHD_Tests.py" />
+        <option value="$PROJECT_DIR$/Contact_us.py" />
+        <option value="$PROJECT_DIR$/Landing_page.py" />
+        <option value="$PROJECT_DIR$/Landing_page(13).py" />
+        <option value="$PROJECT_DIR$/venv/functions.py" />
+        <option value="$PROJECT_DIR$/Landing_page(14).py" />
+        <option value="$PROJECT_DIR$/Contact_us(6).py" />
+        <option value="$PROJECT_DIR$/Contact_us6.py" />
+        <option value="$PROJECT_DIR$/Landing_page14.py" />
+        <option value="$PROJECT_DIR$/venv/login.py" />
+        <option value="$PROJECT_DIR$/login.py" />
+        <option value="$PROJECT_DIR$/login_5.py" />
+        <option value="$PROJECT_DIR$/login_7.py" />
+        <option value="$PROJECT_DIR$/fields.json" />
+        <option value="$PROJECT_DIR$/Landing_page_14_tests.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1257" />
+    <option name="y" value="-1026" />
+    <option name="width" value="1358" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FCC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FCC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FCC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FCC" type="462c0819:PsiDirectoryNode" />
+              <item name="screens" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FCC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FCC" type="462c0819:PsiDirectoryNode" />
+              <item name="screens" type="462c0819:PsiDirectoryNode" />
+              <item name="login" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="C:/Git/git-cmd.exe" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\akoledachkin\PycharmProjects\FCC" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for login_7_tests.login_page.test_LogInAndStayLogged">
+    <configuration name="login" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="FCC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="C:\Users\akoledachkin\PycharmProjects\FCC\login_7_tests.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Landing_page_14_tests.Landing_Page.test_LandingPageTest" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="FCC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Landing_page_14_tests.Landing_Page.test_LandingPageTest&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for login_7_tests.login_page.test_LogInAndStayLogged" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="FCC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;login_7_tests.login_page.test_LogInAndStayLogged&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for login_7_tests.login_page.test_LoginPage" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="FCC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;login_7_tests.login_page.test_LoginPage&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for login_7_tests.login_page.test_Required_Fields" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="FCC" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;login_7_tests.login_page.test_Required_Fields&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for login_7_tests.login_page.test_LogInAndStayLogged" />
+        <item itemvalue="Python tests.Unittests for login_7_tests.login_page.test_LoginPage" />
+        <item itemvalue="Python tests.Unittests for login_7_tests.login_page.test_Required_Fields" />
+        <item itemvalue="Python.login" />
+        <item itemvalue="Python tests.Unittests for Landing_page_14_tests.Landing_Page.test_LandingPageTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dc730a12-a0a6-41d9-85cd-bdac0cfe5cd6" name="Default Changelist" comment="" />
+      <created>1552661442222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1552661442222</updated>
+    </task>
+    <task id="LOCAL-00001" summary="One test">
+      <created>1554381599412</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1554381599412</updated>
+    </task>
+    <task id="LOCAL-00002" summary="&quot;new_demo&quot;">
+      <created>1554468902520</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1554468902520</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_login_login_page_test_LoginPage - 2019.05.16 at 12h 05m 58s.xml">
+      <configuration name="Unittests for login.login_page.test_LoginPage" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_login_login_page_test_LoginPage - 2019.05.16 at 12h 20m 36s.xml">
+      <configuration name="Unittests for login.login_page.test_LoginPage" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_login_login_page_test_LoginPage - 2019.05.16 at 12h 21m 53s.xml">
+      <configuration name="Unittests for login.login_page.test_LoginPage" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_login_login_page_test_LoginPage - 2019.05.16 at 12h 22m 47s.xml">
+      <configuration name="Unittests for login.login_page.test_LoginPage" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_login_5_login_page_test_LoginPage - 2019.05.16 at 12h 24m 14s.xml">
+      <configuration name="Unittests for login_5.login_page.test_LoginPage" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_login_5_login_page_test_LoginPage - 2019.05.16 at 12h 34m 00s.xml">
+      <configuration name="Unittests for login_5.login_page.test_LoginPage" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_login_5_login_page_test_LogInAndStayLogged - 2019.05.16 at 12h 48m 52s.xml">
+      <configuration name="Unittests for login_5.login_page.test_LogInAndStayLogged" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_login_5_login_page_test_LogInAndStayLogged - 2019.05.16 at 12h 49m 19s.xml">
+      <configuration name="Unittests for login_5.login_page.test_LogInAndStayLogged" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_login_5_login_page_test_LogInAndStayLogged - 2019.05.16 at 12h 50m 48s.xml">
+      <configuration name="Unittests for login_5.login_page.test_LogInAndStayLogged" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_login_5_login_page_test_LogInAndStayLogged - 2019.05.16 at 12h 51m 38s.xml">
+      <configuration name="Unittests for login_5.login_page.test_LogInAndStayLogged" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="991" y="-1052" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2918862" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7916667" visible="true" weight="0.248104" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49947312" weight="0.42361864" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49947312" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49789253" weight="0.32936078" />
+      <window_info anchor="bottom" id="Python Console" order="9" sideWeight="0.49894625" weight="0.15492958" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.20833333" side_tool="true" weight="0.25164112" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.4198718" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7916667" visible="true" weight="0.25164112" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49947312" weight="0.42361864" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49947312" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49789253" weight="0.32936078" />
+      <window_info anchor="bottom" id="Python Console" order="9" sideWeight="0.49894625" weight="0.15492958" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.20833333" side_tool="true" visible="true" weight="0.25164112" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="One test" />
+    <MESSAGE value="&quot;new_demo&quot;" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;LandingPage.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;LandingPage.py" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/unittest/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/autorization.png" />
+    <entry file="file://$PROJECT_DIR$/screenshot.png" />
+    <entry file="file://$PROJECT_DIR$/venv/screenshots/autorization.png" />
+    <entry file="file://$PROJECT_DIR$/screenshots/autorization.png" />
+    <entry file="file://$PROJECT_DIR$/LandingPageScreenShotsResult/Login/login.png" />
+    <entry file="file://$PROJECT_DIR$/LandingPageScreenShotsResult/Login/SignUp.png" />
+    <entry file="file://$PROJECT_DIR$/LandingPageScreenShotsResult/demo.py" />
+    <entry file="file://$PROJECT_DIR$/host.png" />
+    <entry file="file://$PROJECT_DIR$/H&amp;R.py" />
+    <entry file="file://$PROJECT_DIR$/facebook.png" />
+    <entry file="file://$PROJECT_DIR$/Знцшт.py" />
+    <entry file="file://$USER_HOME$/Desktop/Pywin.py" />
+    <entry file="file://H:/player.py" />
+    <entry file="file://$PROJECT_DIR$/login.png" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37-32/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="59" column="33" lean-forward="true" selection-start-line="59" selection-start-column="33" selection-end-line="59" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LoginPage.png" />
+    <entry file="file://$PROJECT_DIR$/WebControlsPage.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/appstore.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/playmarket.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/field.py" />
+    <entry file="file://$PROJECT_DIR$/venv/poshelti.py" />
+    <entry file="file://$PROJECT_DIR$/screens/map.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/about_us/notify.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/about_us/RequiredFields.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/about_us/map.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://H:/player2.py" />
+    <entry file="file://$PROJECT_DIR$/Pywin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/player.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="23" column="27" lean-forward="true" selection-start-line="23" selection-start-column="27" selection-end-line="23" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LandingPage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="135" column="31" selection-start-line="135" selection-start-column="31" selection-end-line="135" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <marker date="1556009732012" expanded="true" signature="1915:2677" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/venv/functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="3" selection-end-column="70" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/login/forgot.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/login/haveacc.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/login/existingmail.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/login/notexistingmail.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/login/logingood.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/screens/login/ok.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Contact_us_7_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="30" column="33" selection-start-line="30" selection-start-column="33" selection-end-line="30" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#1032#1507#0" />
+            <element signature="e#1560#3841#0" />
+            <element signature="e#3907#4982#0" />
+            <element signature="e#5027#5394#0" />
+            <element signature="e#5428#5711#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login_7_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="62" column="35" lean-forward="true" selection-start-line="62" selection-start-column="35" selection-end-line="62" selection-end-column="35" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#1217#2857#0" />
+            <element signature="e#2586#2897#0" />
+            <element signature="e#3739#4503#0" />
+            <element signature="e#4118#4942#0" />
+            <element signature="e#5135#5824#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fields.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="36" column="13" selection-start-line="36" selection-start-column="5" selection-end-line="36" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Landing_page_14_tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="426">
+          <caret line="147" column="41" lean-forward="true" selection-start-line="147" selection-start-column="41" selection-end-line="147" selection-end-column="41" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+            <element signature="e#3772#4670#0" />
+            <element signature="e#4712#4970#0" />
+            <element signature="e#5392#5595#0" />
+            <element signature="e#5632#6387#0" />
+            <element signature="e#6427#7273#0" />
+            <element signature="e#7309#7700#0" />
+            <element signature="e#7745#8547#0" />
+            <element signature="e#8584#9855#0" />
+            <element signature="e#9899#10284#0" />
+            <element signature="e#10326#10697#0" />
+            <element signature="e#10736#11538#0" />
+            <element signature="e#11576#12582#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
