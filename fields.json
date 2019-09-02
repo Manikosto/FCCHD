@@ -18,7 +18,7 @@
     "b_FAQ" : "//div[@class='footernav']//a[@title='FAQs']",
     "b_about_us" : "//div[@class='footernav']//a[@title='About Us']",
     "b_contact_us" : "//div[@class='footernav']//a[@title='Contact Us']"
-  },
+  }, 
 
   "Terms": {
     "terms" : "//a[@id='termsofservice_link']",
